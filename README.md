@@ -109,7 +109,7 @@
 
 ### Method 1: Loadstring (Recommended)
 ```lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/RanZx999/RanZx999-ESP-Hub/main/GameExplorer_Safe.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/RanZx999/RanZx999-Game-Explorer/refs/heads/main/GameExplorer_Safe.lua'))()
 ```
 
 ### Method 2: Direct Execute
